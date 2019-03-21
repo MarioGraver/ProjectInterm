@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
     	 
 	     public static void main(String[] args) {
 			 
-	       accederPagina("ttps://www.chevrolet.com.mx");
+	       accederPagina("ttps://www.chevrolet.com.mx") ;
 		   maximizarVentana();
 	       buscarVehiculo("Aveo");
 		   validarCaracteristicas("Equipamento"); 
